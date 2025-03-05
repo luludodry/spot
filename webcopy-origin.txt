@@ -1,0 +1,536 @@
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap
+File Name: C:\Downloaded Web Sites\topconfiança.com\css2-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://topconfiança.com/spotifypay/saque/?utm_source=organic&utm_campaign=&utm_medium=&utm_content=&utm_term=&xcod=jLj67c893fee1c3f4f1407c091ehQwK21wXxRhQwK21wXxRhQwK21wXxRhQwK21wXxR&sck=jLj67c893fee1c3f4f1407c091ehQwK21wXxRhQwK21wXxRhQwK21wXxRhQwK21wXxR
+File Name: C:\Downloaded Web Sites\topconfiança.com\spotifypay\saque\index.htm
+Content Type: text/html
+
+Uri: https://topconfiança.com/spotifypay/saque/images/spotify2-logo.png
+File Name: C:\Downloaded Web Sites\topconfiança.com\spotifypay\saque\images\spotify2-logo.png
+Content Type: image/png
+
+Uri: https://topconfiança.com/spotifypay/saque/images/thumbnail.jpg
+File Name: C:\Downloaded Web Sites\topconfiança.com\spotifypay\saque\images\thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: https://topconfiança.com/spotifypay/saque/js/latest.js
+File Name: C:\Downloaded Web Sites\topconfiança.com\spotifypay\saque\js\latest.js
+Content Type: application/x-javascript
+
+Uri: https://topconfiança.com/spotifypay/saque/js/latest_2.js
+File Name: C:\Downloaded Web Sites\topconfiança.com\spotifypay\saque\js\latest_2.js
+Content Type: application/x-javascript
+
+Uri: https://topconfiança.com/spotifypay/saque/js/pixel.js
+File Name: C:\Downloaded Web Sites\topconfiança.com\spotifypay\saque\js\pixel.js
+Content Type: application/x-javascript
+
+Uri: https://topconfiança.com/spotifypay/saque/js/pixel_1.js
+File Name: C:\Downloaded Web Sites\topconfiança.com\spotifypay\saque\js\pixel_1.js
+Content Type: application/x-javascript
+
+Uri: https://topconfiança.com/spotifypay/saque/js/player_1.js
+File Name: C:\Downloaded Web Sites\topconfiança.com\spotifypay\saque\js\player_1.js
+Content Type: application/x-javascript
+
+IeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCdHOem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCdHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCvHeem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCvHeem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCvHOem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDDxHOem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDDxHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDAvHOem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDAvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDBIG-em.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDBIG-em.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDBxG-em.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDBxG-em.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCdHOem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCdHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCvHeem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCvHeem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCvHOem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDDxHOem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDDxHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDAvHOem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDAvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDBIG-em.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDBIG-em.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDBxG-em.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDBxG-em.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCdHOem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCdHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCvHeem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCvHeem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCvHOem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDDxHOem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDDxHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDAvHOem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDAvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDBIG-em.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDBIG-em.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDBxG-em.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDBxG-em.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCdHOem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCdHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCvHeem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCvHeem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCvHOem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDDxHOem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDDxHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDAvHOem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDAvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDBIG-em.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDBIG-em.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDBxG-em.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDBxG-em.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCdHOem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCdHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHeem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHeem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHOem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDDxHOem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDDxHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDAvHOem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDAvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDBIG-em.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDBIG-em.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDBxG-em.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDBxG-em.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCdHOem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCdHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCvHeem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCvHeem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCvHOem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDCvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDDxHOem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1i-q_4MrImHCIJIZrDDxHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDAvHOem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDAvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDBIG-em.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDBIG-em.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDBxG-em.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDBxG-em.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCdHOem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCdHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCvHeem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCvHeem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCvHOem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDDxHOem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDDxHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDAvHOem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDAvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDBIG-em.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDBIG-em.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDBxG-em.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDBxG-em.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCdHOem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCdHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCvHeem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCvHeem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCvHOem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDCvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDDxHOem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1p-p_4MrImHCIJIZrDDxHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDAvHOem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDAvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDBIG-em.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDBIG-em.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDBxG-em.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDBxG-em.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCdHOem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCdHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCvHeem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCvHeem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCvHOem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDCvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDDxHOem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1t-p_4MrImHCIJIZrDDxHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDAvHOem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDAvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDBIG-em.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDBIG-em.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDBxG-em.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDBxG-em.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCdHOem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCdHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHeem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHeem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHOem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDDxHOem.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\materialsymbolsoutlined\v228\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzazHD_dY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDDxHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\topconfiança.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://lottie.host/7c73a00c-afa8-4ad5-b6b7-d8050e57f0c3/pg6N0GhPE7.json
+File Name: C:\Downloaded Web Sites\topconfiança.com\7c73a00c-afa8-4ad5-b6b7-d8050e57f0c3\pg6N0GhPE7.json
+Content Type: application/json
+
+Uri: https://lottie.host/dfcc0486-0a2c-42d7-b454-1922410a517d/ccVkLniJIv.json
+File Name: C:\Downloaded Web Sites\topconfiança.com\dfcc0486-0a2c-42d7-b454-1922410a517d\ccVkLniJIv.json
+Content Type: application/json
+
+Uri: https://topconfiança.com/spotifypay/
+File Name: C:\Downloaded Web Sites\topconfiança.com\spotifypay\index.htm
+Content Type: text/html
+
+Uri: https://topconfiança.com/spotifypay/background_whats.html
+File Name: C:\Downloaded Web Sites\topconfiança.com\spotifypay\background_whats.html
+Content Type: text/html
+
+Uri: https://topconfiança.com/spotifypay/css/styles.css
+File Name: C:\Downloaded Web Sites\topconfiança.com\spotifypay\css\styles.css
+Content Type: text/css
+
+Uri: https://topconfiança.com/spotifypay/images/alok.jpg
+File Name: C:\Downloaded Web Sites\topconfiança.com\spotifypay\images\alok.jpg
+Content Type: image/jpeg
+
+Uri: https://topconfiança.com/spotifypay/images/annita.jpg
+File Name: C:\Downloaded Web Sites\topconfiança.com\spotifypay\images\annita.jpg
+Content Type: image/jpeg
+
+Uri: https://topconfiança.com/spotifypay/images/cpf.png
+File Name: C:\Downloaded Web Sites\topconfiança.com\spotifypay\images\cpf.png
+Content Type: image/png
+
+Uri: https://topconfiança.com/spotifypay/images/email.png
+File Name: C:\Downloaded Web Sites\topconfiança.com\spotifypay\images\email.png
+Content Type: image/png
+
+Uri: https://topconfiança.com/spotifypay/images/ivete.jpg
+File Name: C:\Downloaded Web Sites\topconfiança.com\spotifypay\images\ivete.jpg
+Content Type: image/jpeg
+
+Uri: https://topconfiança.com/spotifypay/images/LuanSantana.jpg
+File Name: C:\Downloaded Web Sites\topconfiança.com\spotifypay\images\LuanSantana.jpg
+Content Type: image/jpeg
+
+Uri: https://topconfiança.com/spotifypay/images/ludmillaa.jpg
+File Name: C:\Downloaded Web Sites\topconfiança.com\spotifypay\images\ludmillaa.jpg
+Content Type: image/jpeg
+
+Uri: https://topconfiança.com/spotifypay/images/matue.png
+File Name: C:\Downloaded Web Sites\topconfiança.com\spotifypay\images\matue.png
+Content Type: image/png
+
+Uri: https://topconfiança.com/spotifypay/images/mcabelin.jpg
+File Name: C:\Downloaded Web Sites\topconfiança.com\spotifypay\images\mcabelin.jpg
+Content Type: image/jpeg
+
+Uri: https://topconfiança.com/spotifypay/images/mcdaniel.jpg
+File Name: C:\Downloaded Web Sites\topconfiança.com\spotifypay\images\mcdaniel.jpg
+Content Type: image/jpeg
+
+Uri: https://topconfiança.com/spotifypay/images/opinilogo.png
+File Name: C:\Downloaded Web Sites\topconfiança.com\spotifypay\images\opinilogo.png
+Content Type: image/png
+
+Uri: https://topconfiança.com/spotifypay/images/poze.jpg
+File Name: C:\Downloaded Web Sites\topconfiança.com\spotifypay\images\poze.jpg
+Content Type: image/jpeg
+
+Uri: https://topconfiança.com/spotifypay/images/qr.png
+File Name: C:\Downloaded Web Sites\topconfiança.com\spotifypay\images\qr.png
+Content Type: image/png
+
+Uri: https://topconfiança.com/spotifypay/images/spotifylogo.png
+File Name: C:\Downloaded Web Sites\topconfiança.com\spotifypay\images\spotifylogo.png
+Content Type: image/png
+
+Uri: https://topconfiança.com/spotifypay/images/telefone.png
+File Name: C:\Downloaded Web Sites\topconfiança.com\spotifypay\images\telefone.png
+Content Type: image/png
+
+Uri: https://topconfiança.com/spotifypay/images/wesley.jpg
+File Name: C:\Downloaded Web Sites\topconfiança.com\spotifypay\images\wesley.jpg
+Content Type: image/jpeg
+
+Uri: https://topconfiança.com/spotifypay/js/jquery-3.6.4.min.js
+File Name: C:\Downloaded Web Sites\topconfiança.com\spotifypay\js\jquery-3.6.4.min.js
+Content Type: application/x-javascript
+
+Uri: https://topconfiança.com/spotifypay/js/js.cookie.min.js
+File Name: C:\Downloaded Web Sites\topconfiança.com\spotifypay\js\js.cookie.min.js
+Content Type: application/x-javascript
+
+Uri: https://topconfiança.com/spotifypay/js/latest.js
+File Name: C:\Downloaded Web Sites\topconfiança.com\spotifypay\js\latest.js
+Content Type: application/x-javascript
+
+Uri: https://topconfiança.com/spotifypay/js/lottie-player.js
+File Name: C:\Downloaded Web Sites\topconfiança.com\spotifypay\js\lottie-player.js
+Content Type: application/x-javascript
+
+Uri: https://topconfiança.com/spotifypay/js/scripts.js
+File Name: C:\Downloaded Web Sites\topconfiança.com\spotifypay\js\scripts.js
+Content Type: application/x-javascript
+
+Uri: https://topconfiança.com/spotifypay/media/dinheiro.mp3
+File Name: C:\Downloaded Web Sites\topconfiança.com\spotifypay\media\dinheiro.mp3
+Content Type: audio/mpeg
+
+Uri: https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs
+File Name: C:\Downloaded Web Sites\topconfiança.com\@dotlottie\player-component@2.7.12\dist\dotlottie-player.mjs
+Content Type: application/javascript
+
